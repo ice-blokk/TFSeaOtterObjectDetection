@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>seaotterpics</folder>
+	<filename>download (1).jpg</filename>
+	<path>C:\Users\antho\Desktop\obj-det-sea-otter\seaotterpics\download (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>840</width>
+		<height>472</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>otter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>24</ymin>
+			<xmax>781</xmax>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+</annotation>

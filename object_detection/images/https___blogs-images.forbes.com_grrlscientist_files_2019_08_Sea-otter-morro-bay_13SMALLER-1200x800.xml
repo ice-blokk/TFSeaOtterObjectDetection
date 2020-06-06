@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>seaotterpics</folder>
+	<filename>https___blogs-images.forbes.com_grrlscientist_files_2019_08_Sea-otter-morro-bay_13SMALLER-1200x800.jpg</filename>
+	<path>C:\Users\antho\Desktop\obj-det-sea-otter\seaotterpics\https___blogs-images.forbes.com_grrlscientist_files_2019_08_Sea-otter-morro-bay_13SMALLER-1200x800.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>otter</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>73</ymin>
+			<xmax>960</xmax>
+			<ymax>541</ymax>
+		</bndbox>
+	</object>
+</annotation>
